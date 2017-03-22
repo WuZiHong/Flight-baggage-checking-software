@@ -1,1 +1,2 @@
 *.cpp linguist-language=objective-c
+*.h linguist-language=objective-c
